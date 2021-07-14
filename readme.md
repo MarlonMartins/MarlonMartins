@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marlon</h1>
-<h3 align="center">I am an enthusiast of python programming, IT, and cybersecurity</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marlonmartins&label=Profile%20views&color=0e75b6&style=flat" alt="marlonmartins" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marlonmartins" alt="marlonmartins" /></a> </p>
+<h3 align="center">I'm an Automation Engineer who is an enthusiast of python programming, IT, and cybersecurity. Recently, I started delving into the web programming world.
+</h3>
 
 - 🌱 I’m currently learning **Javascript, CSS and HTML**
 
